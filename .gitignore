@@ -1,0 +1,70 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache
+.vite/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# MacOS Finder directory attributes
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Local development environment files
+*.local
+
+# Compiled files
+*.out
+*.o
+*.a
+*.so
+
+# Misc
+*.suo
+*.ntvs_analysis.dat
+*.vs
+*.sln
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# Compiled JavaScript files (if you use TypeScript)
+*.js
+*.jsx
+
+# Compiled CSS files
+*.css
+*.scss
+
+# Package lock files
+p
